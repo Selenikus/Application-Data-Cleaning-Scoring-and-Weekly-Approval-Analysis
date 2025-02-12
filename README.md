@@ -24,7 +24,7 @@ Add the industry score (ranging from 0 to 20) from industries.csv.
 Add 20 points if External Rating is 7 or higher.
 Subtract 20 points if External Rating is 2 or lower.
 
-#### 4.Filter Accepted Applications:
+### 4.Filter Accepted Applications:
 Keep only applications with a score greater than 0.
 
 ### 5. Weekly Analysis and Visualization:
